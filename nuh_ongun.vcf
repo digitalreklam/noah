@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Nuh ÖNGÜN
+N:ÖNGÜN;Nuh;;;
+ORG:Noah Group
+TEL;TYPE=CELL,VOICE:+905070514879
+EMAIL;TYPE=INTERNET,WORK:nuh@noahgroup.com.tr
+URL:https://www.noahgroup.com.tr
+ADR;TYPE=WORK;CHARSET=UTF-8:;;Bahçelievler Mh. D-100 Yanyolu Sk. Metroport Business No:148 Kat:7 No:703;Bahçelievler;İstanbul;34180;Turkey
+ADR;TYPE=WORK;CHARSET=UTF-8:;;Yeşilkent Mh. Nazım Hikmet Blv. E2 Blok No: 51/A İç Kapı No: 243;Esenyurt;İstanbul;34515;Turkey
+END:VCARD
